@@ -73,7 +73,8 @@ By following standard machine learning steps like data preprocessing, model buil
 ## 👨‍💻 Author
 
 **Garikipati Yaswanth**  
-Computer Science Engineering Student  
-GitHub: [https://github.com/Yaswanth-G2004](https://github.com/Yaswanth-G2004)
+📧 Email: garikipatiyaswanth2004@gmail.com  
+🔗 [GitHub](https://github.com/Yaswanth-G2004)  
+🔗 [LinkedIn](https://www.linkedin.com/in/yaswanth-garikipati-516821288)
 
 ---
